@@ -1,1 +1,1 @@
-# Imdb-prediction-
+#Diabetes-prediction-
